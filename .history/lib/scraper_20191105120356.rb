@@ -8,4 +8,4 @@ doc.css(".champions").text
 
 #First scraping experience
 
-puts doc.css(".champions").text
+puts doc.css(".championd").text
